@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @keodarus. 21 is my age and I'm from Germany. I have completed an apprenticeship as a an electronic technician for devices and systems. 
-     My current level of schooling is at the secondary level. This year I'm going to catch up my technical vocational baccalaureate diploma.
+- 👋 Hi, I’m @keodarus. 22 is my age and I'm from Germany. I have completed an apprenticeship as a an electronic technician for devices and systems. 
+     My technical vocational baccalaureate diploma is now completed and I look forward on what's next.
 
 - 👀 I’m interested in Marcus Hutter's work on AIXI, Jürgen Schmidhuber's Gödel Machine and more specifically in Joel Veness's approximation of AIXI.
      I am rather a practitioner. As long as it works well, I'm happy when someone has provided the heavy theoretical background to it. 
